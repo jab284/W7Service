@@ -1,0 +1,6 @@
+@W7Service_HostAddress = http://localhost:5195
+
+GET {{W7Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

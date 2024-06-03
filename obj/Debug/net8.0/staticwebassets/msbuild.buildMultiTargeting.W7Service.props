@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\W7Service.props" />
+</Project>
